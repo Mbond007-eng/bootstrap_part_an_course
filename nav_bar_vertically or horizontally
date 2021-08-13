@@ -1,0 +1,50 @@
+created some new tags 
+
+  <nav class="navbar">
+   <ul class="navbar-nav">
+       <li class="nav-item">
+           Contact
+      </li>
+   </ul>
+ </nav>
+ 
+ ----    
+  - it shows  vertically   bars : 
+  
+  <nav class="navbar">
+   <ul class="navbar-nav">
+       <li class="nav-item">
+         <a class="nav-link" href=""> Contact</a>
+      </li>
+        <li class="nav-item">
+         <a class="nav-link" href=""> Pricing</a>
+      </li>
+        <li class="nav-item">
+         <a class="nav-link" href=""> Download</a>
+      </li>
+   </ul>
+ </nav>
+      
+ 
+ 
+ creating horizontal nav bar- 
+ 
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+   <ul class="navbar-nav">
+       <li class="nav-item">
+         <a class="nav-link" href=""> Contact</a>
+      </li>
+        <li class="nav-item">
+         <a class="nav-link" href=""> Pricing</a>
+      </li>
+        <li class="nav-item">
+         <a class="nav-link" href=""> Download</a>
+      </li>
+   </ul>
+ </nav>
+
+ 
+ 
+ adding color: 
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+   <ul class="navbar-nav">
