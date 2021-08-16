@@ -1,0 +1,19 @@
+
+<a class="navbar-brand" href="">Tindog</a>
+
+in the following code:  (main code for navbar to start) 
+   <ul class="navbar-nav">
+           <li class="nav-item">
+               <a class="nav-link" href=""> Contact</a>
+           </li>
+           <li class="nav-item">
+               <a class="nav-link" href=""> Pricing</a>
+           </li>
+           <li class="nav-item">
+               <a class="nav-link" href=""> Download</a>
+           </li>
+       </ul>
+   </nav> 
+    main q - hoe to be on the right side  ? 
+    
+   
