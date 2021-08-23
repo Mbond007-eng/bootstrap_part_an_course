@@ -1,0 +1,13 @@
+
+in order to add the backg.  color if tags had < > = Html 
+
+
+
+in css now need to add  tag > # 
+
+ #title {
+background-color:  #ff4c68;
+}
+ 
+ 
+ 
