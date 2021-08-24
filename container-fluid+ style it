@@ -1,0 +1,78 @@
+
+<div class="container-fluid">  - that is been added 
+
+
+</div> added right before </section>  
+
+
+
+
+at the summary 
+  <section id="title">
+<div class="container-fluid">             ******  - this one  later i had to do- only  "container" ( not with fluid) 
+
+    <div class="container">
+      <div class="row justify-content-md-center">
+        <div class="col col-lg-2">
+          1 of 3
+        </div>
+
+        <div class="col-md-auto">
+          Variable width content
+        </div>
+        <div class="col col-lg-2">
+          3 of 3
+        </div>
+      </div>
+    </div>
+
+    <!-- Nav Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+        <a class="navbar-brand" href="">Thatdog</a>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href=""> Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href=""> Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href=""> Download</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+
+
+    <!-- Title -->
+
+    <div class="row">
+      <div class="col-lg-6">
+      <h1>Meet new and interesting dogs nearby.</h1>
+      <button type="button">Download</button>
+      <button type="button">Download</button>
+    </div>
+    <div class="col-lg-6">
+      <img src="images/iphone6.png" alt="iphone-mockup">
+    </div>
+  </div>
+
+</div>
+  </section>
+  
+  
+  
+  and then added in css 
+  
+  .container {
+  padding: 3% 5%; 
+  } 
+  
+
+  
+  
