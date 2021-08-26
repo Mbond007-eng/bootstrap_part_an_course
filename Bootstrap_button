@@ -1,0 +1,21 @@
+
+in order to add the color- need to add class 
+          <button type="button" class="btn btn-dark">Download</button>
+          <button type="button" class="btn btn-white">Download</button>
+
+
+
+icon- apple- 
+need to nest i class - for apple icon - logo
+<div class="row">
+        <div class="col-lg-6">
+          <h1>Meet new and interesting dogs nearby.</h1>
+
+          <button type="button" class="btn btn-dark btn-lg"><i class="fab fa-apple"></i>Download</button>
+          <button type="button" class="btn btn-light btn-lg">Download</button>
+
+
+        </div> 
+        
+        and need to add  this cedn link from the fontawesome.com
+          <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
