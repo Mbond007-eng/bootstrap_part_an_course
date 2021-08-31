@@ -1,0 +1,23 @@
+In order to have buttons to be far  apart from each other . 
+need to add download-button  class. 
+
+<h1>Meet new and interesting dogs nearby.</h1>
+        <button type="button btn-lg download-button"><i class="fab fa-apple"></i>Download</button>
+      <button type="button btn-lg download-button"><i class="fa fa-play	google-play"></i>Download</button>
+      <!-- where I have taken data- google play icon  from https://www.w3schools.com/icons/icons_reference.asp -->
+      </div>  
+      
+      and added class at css
+       /* Download Button */
+.download-button 
+our button need margins 
+
+/* Download Button */
+
+
+.download-button {
+margin-left: 15px;
+margin-top: 10px;
+margin-right: 15px;
+margin-bottom: 10px;
+}
