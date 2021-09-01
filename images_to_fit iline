@@ -1,0 +1,21 @@
+have to add to existing image   class="img-fluid"   
+
+
+  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+          <img src="images/tnw.png" class="img-fluid" alt="tnw-logo">
+      </div>
+              <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+              <img src="images/bizinsider.png" class="img-fluid" alt="biz-insider-logo">
+            </div>
+
+              <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+              <img src="images/mashable.png" class="img-fluid" alt="mashable-logo">
+            </div>
+        </div>
+      </div> 
+      
+         Q-  remains I have to style in the css as well ? 
+         
+
+  
+ 
