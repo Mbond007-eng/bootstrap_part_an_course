@@ -1,0 +1,15 @@
+In roder to to make our page fitted in the parent container 
+need to create a class  "title-image"  
+
+<div class="col-lg-6"> <!-- parent div of the image-dog -->
+        <img class="title-image" src="images/dogimgresize.jpg" alt="pictureofdogonphone">
+      </div>
+    </div> 
+    
+    and in css- 
+    .ttile-image { 
+    width:50%; 
+    }  
+    
+    
+    
