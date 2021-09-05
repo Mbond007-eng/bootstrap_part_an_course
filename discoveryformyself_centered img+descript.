@@ -1,0 +1,6 @@
+Yes I just have  discovered for myself. 
+ - problem was, I could not center the img( dog) + descript. and so i went to code html and realised that I had diffrence betwen teachers code and mine ( i was following class) 
+so I deleted those two lines. 
+
+  <div class="row align-items-center">
+        <div class="col-lg-3 col-md-5 col-xs-4">
