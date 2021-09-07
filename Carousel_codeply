@@ -1,0 +1,42 @@
+trying for the first time 
+ <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" style="background-color:red;">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item" style="background-color:yellow;">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item"style="background-color:blue;">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div> 
+
+
+and css - 
+    carousel-item {
+    height: 50px;
+} 
+
+have nested code for carousel :
+ 
+ *added for cooresel comparemnt - data-bs-ride="carousel slide" data-bs-interval="1000">     sliding
+
+like this :
+<div id="carouselExampleSlidesOnly" class="carousel slide"  data-bs-ride="carousel" data-bs-interval="1000"> */  - here is just flashing.
+
+ <div id="carouselExampleSlidesOnly" class="carousel slide">  
+
+ <div class="carousel-inner">
+    <div class="carousel-item active" style="background-color:red;">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item" style="background-color:yellow;">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item"style="background-color:blue;">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div> 
