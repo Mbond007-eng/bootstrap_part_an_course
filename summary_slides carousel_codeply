@@ -1,0 +1,26 @@
+summarised code to run slides, carousel
+
+<div id="carousel items" class="carousel slide" data-bs-ride="carousel">  <!-- it can be run -false too for a specific reasons -->
+  <div class="carousel-inner">
+    <div class="carousel-item active"  style="background-color: blue;">
+      <img src="..." class="d-block w-100" alt="...First  slide">
+    </div>
+    <div class="carousel-item" style="background-color: red;">
+      <img src="..." class="d-block w-100" alt="Second  slide">
+    </div>
+    <div class="carousel-item"  style="background-color: yellow">
+      <img src="..." class="d-block w-100" alt="Third slide">
+    </div>
+  </div>
+  
+       added buttons right before last <div> 
+   
+  <button class="carousel-control-prev" type="button" data-bs-target="#carousel items" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carousel items" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
